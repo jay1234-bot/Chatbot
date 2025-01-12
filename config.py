@@ -4,11 +4,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = 6435225
+API_ID = 22498794
 # -------------------------------------------------------------
-API_HASH = "4e984ea35f854762dcde906dce426c2d"
+API_HASH = "478083c48d2a9681d487f60531312856"
 # --------------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "7833972330:AAErp7yd_GYU9UyvE84tyfvFlb0KctRe9do")
+BOT_TOKEN = getenv("BOT_TOKEN", "7855544146:AAF64jijwYaue1mtZM3ho36NiiRmCVcOM3I")
 STRING1 = getenv("STRING_SESSION", None)
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://danishzain1637:papaspartan@cluster0.xdje3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 OWNER_ID = int(getenv("OWNER_ID", 7668520999))
